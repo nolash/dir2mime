@@ -1,0 +1,3 @@
+* 0.2.0
+	- Automatically detect filetype with filemagic
+	- Inclusions as both inline and attachment parts
